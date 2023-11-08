@@ -1,0 +1,11 @@
+Model Information:
+* title:	Souvlaki Greek Platter
+* source:	https://sketchfab.com/3d-models/souvlaki-greek-platter-da9954daa6524a9d92e88f68e95d0443
+* author:	Rainbow (https://sketchfab.com/encoded01)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Souvlaki Greek Platter" (https://sketchfab.com/3d-models/souvlaki-greek-platter-da9954daa6524a9d92e88f68e95d0443) by Rainbow (https://sketchfab.com/encoded01) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
